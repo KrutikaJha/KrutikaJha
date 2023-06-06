@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KrutikaJha
+- 👀 I’m interested in Cooking
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on any interesting Data analytics projects
